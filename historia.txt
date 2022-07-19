@@ -4,3 +4,5 @@ El tema1 se refiere a la temática tratada en el capítulo1 del libro ogata.
 es un libro muy útil y lleno de muchos ejercicios.
 
 para más información consultar la bibliografía
+
+Existen otros buenos libros como el nise y kuo
